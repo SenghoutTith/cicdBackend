@@ -1,4 +1,4 @@
-<h1>welcome to blog page</h1>
+<h1>welcome to blog page hehehe</h1>
 
 <form action="blog" method="post">
     @csrf
